@@ -1,0 +1,14 @@
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\bin\Debug\netstandard2.0\UWCbankApp.deps.json
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\bin\Debug\netstandard2.0\UWCbankApp.dll
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\bin\Debug\netstandard2.0\ref\UWCbankApp.dll
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\bin\Debug\netstandard2.0\UWCbankApp.pdb
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.csprojAssemblyReference.cache
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.AssemblyInfoInputs.cache
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.AssemblyInfo.cs
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.csproj.CoreCompileInputs.cache
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.dll
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\ref\UWCbankApp.dll
+C:\Users\Mkhuseli Blom\Xamarine\UWCbankApp1\UWCbankApp\UWCbankApp\obj\Debug\netstandard2.0\UWCbankApp.pdb

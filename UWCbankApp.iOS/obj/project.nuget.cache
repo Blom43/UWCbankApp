@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VSGIs7DvXNnkiXRaXvAuaAxwsR6dEL4tTKTj6bfMblYTQQ63ymnQVuZmapFU8k8au7hYe089JNV877td0qVeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mkhuseli Blom\\Xamarine\\UWCbankApp1\\UWCbankApp\\UWCbankApp.iOS\\UWCbankApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
